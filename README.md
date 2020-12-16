@@ -1,6 +1,6 @@
 # apikataromannumber
 
-kata pour faire un convertisseur de nombre type 10, 1101 en nombre romain X, MCI
+kata pour faire un convertisseur de nombre ( exemple : 10, 1101) en nombre romain ( exemple : X, MCI)
 
 1 -> I
 
